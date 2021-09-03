@@ -1,0 +1,2 @@
+# Platform
+Embedded platform
